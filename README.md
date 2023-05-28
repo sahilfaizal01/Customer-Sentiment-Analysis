@@ -9,8 +9,10 @@ https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews/code
 # Findings
 ## Imbalanced Dataset
 ![image](https://github.com/sahilfaizal01/Customer-Sentiment-Analysis/assets/106440078/87d6e594-6740-47bc-8764-c473fe8921db) <br>
+
 ![image](https://github.com/sahilfaizal01/Customer-Sentiment-Analysis/assets/106440078/36dc9b53-1ecb-4727-b82d-6db7575a17a1) <br>
 <h3>Most of the reviews are positive</h3>
+
 ![image](https://github.com/sahilfaizal01/Customer-Sentiment-Analysis/assets/106440078/67673cfc-dc11-4f82-9525-c61280e6cc19)
 <h3> The reviews are mostly shorts less than 500 words </h3>
 
